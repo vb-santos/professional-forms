@@ -190,7 +190,6 @@ body {
   }
   .container {
     width: 50%;
-    heigth: 90%;
   }
   .form {
     width: 100%;
@@ -199,7 +198,7 @@ body {
 @media screen and (max-width: 1064px) {
   .container {
     width: 90%;
-    heigth: 90%;
+    heigth: auto;
   }
   .input-group {
     flex-direction: column;
